@@ -1,0 +1,17 @@
+[
+  {
+    "id": "5af9e5a8-2325-4ccb-a60c-0c9d1fe5dc56",
+    "data": [
+      {
+        "text": "sam",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
